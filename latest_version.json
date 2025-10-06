@@ -1,5 +1,5 @@
 {
-  "version": "9.3.5",
-  "build": "31",
-  "releaseNotes": "SwiftData threading fixes and automatic update checker"
+  "version": "9.3.6",
+  "build": "32",
+  "releaseNotes": "Test update notification"
 }
