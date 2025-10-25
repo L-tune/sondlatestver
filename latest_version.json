@@ -1,5 +1,5 @@
 {
   "version": "9.6.0",
-  "build": "62",
-  "releaseNotes": "🔧 Build 62 - Region Block Fix\n\n🌍 CRITICAL FIX: Region Not Supported Errors (21.1% → 0%)\n• Fixed API pre-check bypassing Cloudflare Worker\n• All Gemini API calls now go through proxy\n• Eliminates geographic restrictions\n• No VPN required for blocked regions\n\n🛠️ Technical Details:\n• testGeminiAvailability() now uses Worker proxy\n• Consistent proxy usage across all API endpoints\n• Better error handling for Worker responses\n• Improved exit IP diagnostics\n\n📊 Impact:\n• Users in blocked countries can process recordings\n• 21.1% error rate eliminated\n• More reliable AI processing globally\n• Better user experience in all regions"
+  "build": "63",
+  "releaseNotes": "🚀 Build 63 - РАБОТАЕТ БЕЗ VPN!\n\n🇷🇺 ГЛАВНОЕ ИЗМЕНЕНИЕ: Webshare Proxy Integration\n• SOND работает в России БЕЗ VPN!\n• Cloudflare Worker → VPS Proxy → Webshare (США) → Gemini\n• Автоматическая маршрутизация через прокси\n• Стабильное соединение из любого региона\n\n🎨 UX Улучшения:\n• Import button в navigation bar (top-right)\n• Импорт файлов из списка записей\n• Стандартное iOS размещение кнопок\n\n✨ AI Форматирование:\n• Убраны лишние символы (#) в заголовках\n• Чище и читабельнее саммари\n• Обновлены все 7 типов промптов\n\n📊 Технические детали:\n• DNS: vps.evdokimov.ai → Python proxy → Webshare\n• Стоимость: $0/месяц (10 бесплатных прокси)\n• Протестировано: iPhone в России без VPN ✅"
 }
