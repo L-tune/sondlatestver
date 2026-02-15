@@ -1,5 +1,7 @@
 {
-  "version": "9.7.0",
-  "build": "63",
-  "releaseNotes": "🚀 Build 63 - РАБОТАЕТ БЕЗ VPN!\n\n🇷🇺 ГЛАВНОЕ ИЗМЕНЕНИЕ: Webshare Proxy Integration\n• SOND работает в России БЕЗ VPN!\n• Cloudflare Worker → VPS Proxy → Webshare (США) → Gemini\n• Автоматическая маршрутизация через прокси\n• Стабильное соединение из любого региона\n\n🎨 UX Улучшения:\n• Import button в navigation bar (top-right)\n• Импорт файлов из списка записей\n• Стандартное iOS размещение кнопок\n\n✨ AI Форматирование:\n• Убраны лишние символы (#) в заголовках\n• Чище и читабельнее саммари\n• Обновлены все 7 типов промптов\n\n📊 Технические детали:\n• DNS: vps.evdokimov.ai → Python proxy → Webshare\n• Стоимость: $0/месяц (10 бесплатных прокси)\n• Протестировано: iPhone в России без VPN ✅"
+  "version": "10.4.0",
+  "build": "122",
+  "releaseNotes": "SOND 10.4.0 — Critical Update\n\nFixed: free minutes tracking, duration display, push notifications, review prompts.\nImproved: recording processing stability, referral system.\n\nPlease update to continue using SOND.",
+  "minimumAppVersion": "10.4.0",
+  "updateRequired": true
 }
