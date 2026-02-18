@@ -1,7 +1,12 @@
 {
-  "version": "10.4.0",
-  "build": "122",
-  "releaseNotes": "SOND 10.4.0 — Critical Update\n\nFixed: free minutes tracking, duration display, push notifications, review prompts.\nImproved: recording processing stability, referral system.\n\nPlease update to continue using SOND.",
-  "minimumAppVersion": "10.4.0",
+  "version": "10.4.1",
+  "build": "123",
+  "releaseNotes": "SOND 10.4.1 — YouTube Import Fix
+
+Fixed: YouTube import stability, duplicate minutes deduction, AI Chat keyboard.
+
+Please update to continue using SOND.",
+  "minimumAppVersion": "10.4.1",
   "updateRequired": true
 }
+
