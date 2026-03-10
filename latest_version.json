@@ -1,12 +1,7 @@
 {
-  "version": "10.4.1",
-  "build": "123",
-  "releaseNotes": "SOND 10.4.1 — YouTube Import Fix
-
-Fixed: YouTube import stability, duplicate minutes deduction, AI Chat keyboard.
-
-Please update to continue using SOND.",
+  "version": "10.7.0",
+  "build": "128",
+  "releaseNotes": "SOND 10.7.0\n\nNew onboarding experience, improved paywall, import protection.\n\nPlease update to continue using SOND.",
   "minimumAppVersion": "10.4.1",
   "updateRequired": true
 }
-
