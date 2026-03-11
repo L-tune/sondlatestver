@@ -1,7 +1,7 @@
 {
-  "version": "10.7.0",
-  "build": "128",
-  "releaseNotes": "SOND 10.7.0\n\nNew onboarding experience, improved paywall, import protection.\n\nPlease update to continue using SOND.",
+  "version": "10.6.0",
+  "build": "127",
+  "releaseNotes": "SOND 10.6.0\n\nDeep AI Insights, improved speaker identification, push notification fixes.",
   "minimumAppVersion": "10.4.1",
   "updateRequired": true
 }
