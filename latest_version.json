@@ -1,7 +1,7 @@
 {
-  "version": "10.6.0",
-  "build": "127",
-  "releaseNotes": "SOND 10.6.0\n\nDeep AI Insights, improved speaker identification, push notification fixes.",
-  "minimumAppVersion": "10.4.1",
+  "version": "10.8.2",
+  "build": "131",
+  "releaseNotes": "SOND 10.8.2\n\nImproved AI processing, bug fixes, performance improvements.",
+  "minimumAppVersion": "10.7.0",
   "updateRequired": true
 }
