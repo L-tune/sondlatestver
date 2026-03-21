@@ -1,7 +1,7 @@
 {
-  "version": "10.8.2",
-  "build": "131",
-  "releaseNotes": "SOND 10.8.2\n\nImproved AI processing, bug fixes, performance improvements.",
-  "minimumAppVersion": "10.7.0",
+  "version": "10.9.1",
+  "build": "133",
+  "releaseNotes": "SOND 10.9.1\n\nPro recordings now run uninterrupted up to 4 hours. Stability improvements.",
+  "minimumAppVersion": "10.9.1",
   "updateRequired": true
 }
