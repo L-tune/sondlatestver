@@ -1,7 +1,7 @@
 {
-  "version": "10.9.1",
-  "build": "133",
-  "releaseNotes": "SOND 10.9.1\n\nPro recordings now run uninterrupted up to 4 hours. Stability improvements.",
+  "version": "10.9.5",
+  "build": "136",
+  "releaseNotes": "SOND 10.9.5\n\nFix upload timeout for long recordings. Processing stability improvements.",
   "minimumAppVersion": "10.9.1",
   "updateRequired": true
 }
