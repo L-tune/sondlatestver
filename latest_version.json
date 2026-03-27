@@ -1,7 +1,7 @@
 {
-  "version": "10.9.5",
-  "build": "136",
-  "releaseNotes": "SOND 10.9.5\n\nFix upload timeout for long recordings. Processing stability improvements.",
+  "version": "10.9.4",
+  "build": "135",
+  "releaseNotes": "SOND 10.9.4\n\nRecording and processing stability improvements.",
   "minimumAppVersion": "10.9.1",
-  "updateRequired": true
+  "updateRequired": false
 }
