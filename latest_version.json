@@ -1,7 +1,7 @@
 {
-  "version": "10.9.4",
-  "build": "135",
-  "releaseNotes": "SOND 10.9.4\n\nRecording and processing stability improvements.",
+  "version": "11.1.0",
+  "build": "161",
+  "releaseNotes": "SOND 11.1.0\n\nRedesigned interface, chat import, smart filters, and stability improvements.",
   "minimumAppVersion": "10.9.1",
   "updateRequired": false
 }
