@@ -1,7 +1,7 @@
 {
-  "version": "11.1.0",
-  "build": "161",
-  "releaseNotes": "SOND 11.1.0\n\nRedesigned interface, chat import, smart filters, and stability improvements.",
+  "version": "11.1.1",
+  "build": "162",
+  "releaseNotes": "SOND 11.1.1\n\nRename speakers in one tap, right in the transcript. Reprocessing shows live progress. Summaries stay in the language of the conversation.",
   "minimumAppVersion": "10.9.1",
   "updateRequired": false
 }
