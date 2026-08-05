@@ -1,7 +1,7 @@
 {
-  "version": "11.2.0",
-  "build": "164",
-  "releaseNotes": "SOND 11.2.0\n\nAsk now remembers your conversation across sessions and opens instantly. Fixed a rare bug where the interface could shift upward after stopping a recording.",
+  "version": "11.2.1",
+  "build": "165",
+  "releaseNotes": "SOND 11.2.1\n\nSubscription minutes are counted the same way everywhere now. Your balance stays put across restarts and matches on every device you use.",
   "minimumAppVersion": "10.9.1",
   "updateRequired": false
 }
