@@ -1,7 +1,7 @@
 {
-  "version": "11.2.1",
-  "build": "165",
-  "releaseNotes": "SOND 11.2.1\n\nSubscription minutes are counted the same way everywhere now. Your balance stays put across restarts and matches on every device you use.",
+  "version": "11.2.2",
+  "build": "166",
+  "releaseNotes": "SOND 11.2.2\n\nYour free hour now survives a real call. A recording that runs a few minutes over no longer gets stuck on Insufficient Credits, and previously stuck recordings retry on their own.",
   "minimumAppVersion": "10.9.1",
   "updateRequired": false
 }
