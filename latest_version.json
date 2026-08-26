@@ -1,7 +1,7 @@
 {
-  "version": "11.2.2",
-  "build": "166",
-  "releaseNotes": "SOND 11.2.2\n\nYour free hour now survives a real call. A recording that runs a few minutes over no longer gets stuck on Insufficient Credits, and previously stuck recordings retry on their own.",
+  "version": "11.4.0",
+  "build": "168",
+  "releaseNotes": "SOND 11.4.0\n\nMeeting recordings now work in SOND. Zoom, Google Meet, Yandex Telemost: paste a link to the recording or open the file, and SOND transcribes it, separates the speakers and writes up what was agreed. SOND also finds its own way to the server when the usual connection is blocked.",
   "minimumAppVersion": "10.9.1",
   "updateRequired": false
 }
