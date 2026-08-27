@@ -1,7 +1,7 @@
 {
-  "version": "11.4.0",
-  "build": "168",
-  "releaseNotes": "SOND 11.4.0\n\nMeeting recordings now work in SOND. Zoom, Google Meet, Yandex Telemost: paste a link to the recording or open the file, and SOND transcribes it, separates the speakers and writes up what was agreed. SOND also finds its own way to the server when the usual connection is blocked.",
+  "version": "11.4.1",
+  "build": "169",
+  "releaseNotes": "SOND 11.4.1\n\nBug fixes and stability improvements. Purchased minute packs are now recognized correctly after a recording is processed, and recording length is stored more reliably.",
   "minimumAppVersion": "10.9.1",
   "updateRequired": false
 }
