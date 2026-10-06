@@ -1,7 +1,7 @@
 {
-  "version": "11.4.3",
-  "build": "172",
-  "releaseNotes": "SOND 11.4.3\n\nBreakdowns got sharper: the model that listens to your recording and turns it into meaning moved up a generation. The weekly digest no longer arrives empty. And a recording no longer gets marked as failed at the very moment its breakdown is actually ready.",
+  "version": "11.4.5",
+  "build": "177",
+  "releaseNotes": "SOND 11.4.5\n\nRecordings no longer get lost on the way back from the server: if a result expired before the app picked it up, SOND sends the recording again by itself. MP3 files import again. An upload that iOS interrupted continues the next time you open SOND, and long recordings no longer stop on their own.",
   "minimumAppVersion": "10.9.1",
   "updateRequired": false
 }
