@@ -1,7 +1,7 @@
 {
-  "version": "11.4.6",
-  "build": "178",
-  "releaseNotes": "SOND 11.4.6\n\nA recording is no longer lost when SOND gets closed in the middle of it: the file is saved, and a recording cut short by a crash or a dead battery is repaired on the server and processed as usual. While a recording uploads, its status shows the progress and tells you when the app can be closed.",
+  "version": "11.4.7",
+  "build": "179",
+  "releaseNotes": "SOND 11.4.7\n\nScreens no longer drift sideways while you scroll. On some iPhones the subscription screen and the recording summary could slide left and right under your finger. Now they move only up and down.",
   "minimumAppVersion": "10.9.1",
   "updateRequired": false
 }
