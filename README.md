@@ -2,7 +2,7 @@
 
 Version information for SOND iOS app update checker.
 
-Current: **11.4.7 (179)**, released to the App Store on 2026-10-14.
+Current: **11.5.0 (180)**, released to the App Store on 2026-10-21.
 
 ## latest_version.json
 
