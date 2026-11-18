@@ -1,7 +1,7 @@
 {
-  "version": "11.6.0",
-  "build": "182",
-  "releaseNotes": "SOND 11.6.0\n\nChoose which microphone records: Automatic, the iPhone microphone or headphones. Recordings from your other devices no longer take hours to appear. The subscription screen now says how each option is paid.",
+  "version": "11.7.0",
+  "build": "184",
+  "releaseNotes": "SOND 11.7.0\n\nFixed iCloud sync and backup: each recording now keeps its own audio. SOND also learns why iOS closed it in the middle of a recording, so we can fix those cases.",
   "minimumAppVersion": "10.9.1",
   "updateRequired": false
 }
