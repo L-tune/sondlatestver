@@ -1,7 +1,7 @@
 {
-  "version": "11.7.0",
-  "build": "184",
-  "releaseNotes": "SOND 11.7.0\n\nFixed iCloud sync and backup: each recording now keeps its own audio. SOND also learns why iOS closed it in the middle of a recording, so we can fix those cases.",
+  "version": "11.7.1",
+  "build": "186",
+  "releaseNotes": "SOND 11.7.1\n\nIf a recording stops on its own, SOND now tells you within a minute. Tap the notification and SOND starts recording again. Everything recorded before that is saved. Also fixed: a rare crash right after launch and a freeze when sharing audio.",
   "minimumAppVersion": "10.9.1",
   "updateRequired": false
 }
